@@ -1,0 +1,5 @@
+# TodoHierro / MercadoLocal
+Demo ficticia para compradores que buscan materiales y un único comerciante que administra existencias. Tarea principal: encontrar producto, revisar stock y simular compra.
+Identidad: etiquetas de góndola amarillas #ffd633, tinta #243c32, fondo #f5f4ef, metal #dedfd9, blanco #ffffff, oferta #bd422f. Tipografía Arial para cuerpo y títulos compactos de alto peso; marcador manuscrito como acento. Ancho 1240px. Móvil: encabezado, buscador, hero apilado, categorías desplazables, dos productos por fila. Desktop: hero editorial dividido, categorías horizontales, cuatro productos por fila.
+Gesto propio: cartel de ferretería con fotografía de estantes y precio en etiqueta amarilla. Sin kit vertical específico de ferretería disponible.
+Referencias conceptuales A: https://www.mercadolibre.com.ar/ (búsqueda y catálogo); B: https://www.sodimac.com.ar/ (agrupación por oficio/material); C: https://www.acehardware.com/ (jerarquía de tienda de herramientas). Referencias de estructura, sin copiar recursos ni código. No implican datos comerciales verificados.

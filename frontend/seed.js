@@ -1,0 +1,14 @@
+window.SEED_PRODUCTS = [
+{id:1,name:'Taladro percutor inalámbrico',category:'Herramientas',price:89900,stock:8,image:'taladro.png',unit:'unidad',featured:true,description:'18 V de potencia para los arreglos de todos los días. Incluye batería, cargador y maletín. Mandril de 13 mm y dos velocidades.'},
+{id:2,name:'Látex interior blanco · 4 L',category:'Pinturas',price:24500,stock:14,image:'pintura.png',unit:'lata de 4 L',featured:true,description:'Terminación mate para renovar paredes interiores. Pintura al agua, de fácil aplicación con rodillo o pincel.'},
+{id:3,name:'Tornillos para madera · 100 u.',category:'Tornillería',price:3800,stock:35,image:'tornillos.png',unit:'bolsa de 100',featured:true,description:'Tornillos zincados de 4 × 40 mm con cabeza Phillips. Una bolsa para tener siempre a mano en el taller.'},
+{id:4,name:'Manguera reforzada · 15 m',category:'Jardín',price:18900,stock:10,image:'manguera.png',unit:'rollo de 15 m',featured:true,description:'Manguera flexible de media pulgada para el patio y el jardín. Incluye conectores rápidos y pico de riego.'},
+{id:5,name:'Candado de bronce · 40 mm',category:'Cerrajería',price:8900,stock:18,image:'candado.png',unit:'unidad',description:'Cuerpo de bronce macizo y arco de acero. Incluye dos llaves. Para portones, cajas y uso cotidiano.'},
+{id:6,name:'Taladro compacto · 12 V',category:'Herramientas',price:64900,stock:5,image:'taladro.png',unit:'unidad',description:'Modelo liviano para atornillar y perforar en madera. Incluye batería y cargador.'},
+{id:7,name:'Látex lavable blanco · 10 L',category:'Pinturas',price:48900,stock:6,image:'pintura.png',unit:'lata de 10 L',description:'Pintura interior lavable de terminación mate. Ideal para ambientes de uso diario.'},
+{id:8,name:'Tornillos zincados · 50 u.',category:'Tornillería',price:2400,stock:42,image:'tornillos.png',unit:'bolsa de 50',description:'Tornillos de 3 × 25 mm para pequeños trabajos en madera y armado de muebles.'},
+{id:9,name:'Manguera para patio · 10 m',category:'Jardín',price:12900,stock:12,image:'manguera.png',unit:'rollo de 10 m',description:'Manguera de riego para espacios chicos, con conectores incluidos.'},
+{id:10,name:'Candado reforzado · 50 mm',category:'Cerrajería',price:11900,stock:0,image:'candado.png',unit:'unidad',description:'Candado de bronce con arco reforzado y dos llaves. Próximamente disponible.'},
+{id:11,name:'Esmalte blanco satinado · 1 L',category:'Pinturas',price:15900,stock:9,image:'pintura.png',unit:'lata de 1 L',description:'Esmalte para proteger y renovar superficies de madera y metal. Aplicar sobre superficie preparada.'},
+{id:12,name:'Tornillos multiuso · 200 u.',category:'Tornillería',price:6900,stock:20,image:'tornillos.png',unit:'caja de 200',description:'Caja de tornillos surtidos para resolver reparaciones y proyectos del hogar.'}
+];

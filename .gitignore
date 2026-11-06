@@ -1,0 +1,9 @@
+.qa/
+node_modules/
+**/node_modules/
+server/node_modules/
+.DS_Store
+*.log
+*.sqlite
+*.sqlite-*
+.github/workflows/

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "hero-local.png",
+    "type": "photorealistic-natural",
+    "prompt": "Wide editorial photograph inside a small Argentine neighborhood hardware shop, old metal shelves full of paint cans, tools and boxes of screws, warm afternoon daylight, authentic tidy workshop counter in foreground, no people, no readable text, cinematic but natural, horizontal 3:2 composition."
+  },
+  {
+    "file": "taladro.png",
+    "type": "product-mockup",
+    "prompt": "Catalog photograph of one yellow and black cordless power drill with battery, three quarter view on light warm gray studio background, realistic soft shadow, no brand or text, square composition."
+  },
+  {
+    "file": "pintura.png",
+    "type": "product-mockup",
+    "prompt": "Catalog photograph of a closed white metal paint bucket with green band and metal handle, no lettering or brand, light warm gray studio background, realistic soft shadow, square composition."
+  },
+  {
+    "file": "tornillos.png",
+    "type": "product-mockup",
+    "prompt": "Catalog photograph of a neat small pile of silver zinc wood screws with a few separate screws, light warm gray studio background, detailed metal texture, no text, square composition."
+  },
+  {
+    "file": "manguera.png",
+    "type": "product-mockup",
+    "prompt": "Catalog photograph of a coiled dark green garden hose with orange connectors, light warm gray studio background, realistic soft shadow, no text or brand, square composition."
+  },
+  {
+    "file": "candado.png",
+    "type": "product-mockup",
+    "prompt": "Catalog photograph of one solid brass padlock with steel shackle and two keys, light warm gray studio background, realistic soft shadow, no brand no text, square composition."
+  }
+]
